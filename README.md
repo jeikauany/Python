@@ -1,2 +1,2 @@
 # Python
-Meus Projetos em Pyhton
+Meus Projetos em Python
